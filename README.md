@@ -29,10 +29,6 @@ Implementing dependency injection provides you with the following advantages:
 4. Build and run the sample.
 
 
-# Comparison between different branches
-* [Full codelab comparison](https://github.com/googlecodelabs/android-hilt/compare/main...solution)
-
-
 # License
 
 ```
